@@ -14,7 +14,7 @@
 <br>4. Paste to pass the Authentication
 
 <br>
-Architecture Diagram
+<h2>Architecture Diagram</h2>
 <br>
 <img width="1105" alt="Screenshot 2022-10-07 at 12 42 51 AM" src="https://user-images.githubusercontent.com/105078502/194374304-c9f55429-6802-425d-acd9-41bce9fd6d39.jpg">
 
