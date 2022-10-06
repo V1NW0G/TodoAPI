@@ -16,5 +16,6 @@
 <br>
 Architecture Diagram
 <br>
-![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/105078502/194369439-f97f347b-9ee0-46ef-8f5d-0e861ae095e3.jpg)
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/105078502/194373986-67779989-28b8-40ad-8fdb-5d3f569d3d58.png)
+
 
