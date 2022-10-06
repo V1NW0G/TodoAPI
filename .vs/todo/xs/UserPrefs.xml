@@ -6,7 +6,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="todo/Program.cs">
     <Files>
-      <File FileName="todo/Program.cs" Line="161" Column="49" />
+      <File FileName="todo/Program.cs" Line="88" Column="15" />
       <File FileName="todo/appsettings.Development.json" Line="1" Column="1" />
       <File FileName="todo/Properties/launchSettings.json" Line="15" Column="47" />
       <File FileName="todo/appsettings.json" Line="10" Column="23" />
@@ -16,7 +16,9 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="todo" expanded="True">
-            <Node name="todo" expanded="True" />
+            <Node name="todo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
