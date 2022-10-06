@@ -16,6 +16,6 @@
 <br>
 Architecture Diagram
 <br>
-![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/105078502/194373986-67779989-28b8-40ad-8fdb-5d3f569d3d58.png)
+<img width="1105" alt="Screenshot 2022-10-07 at 12 42 51 AM" src="https://user-images.githubusercontent.com/105078502/194374304-c9f55429-6802-425d-acd9-41bce9fd6d39.jpg">
 
 
