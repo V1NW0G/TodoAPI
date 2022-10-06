@@ -85,7 +85,7 @@ var app = builder.Build();
 
 
 /////////Login///////////
-app.MapPost("/security/getToken", [AllowAnonymous] (UserDto user) =>
+app.MapPost("/api/security/getToken", [AllowAnonymous] (UserDto user) =>
 {
 
     if (user.UserName == "admin" && user.Password == "admin")
@@ -156,7 +156,7 @@ app.MapDelete("/api/remove{id}", [Authorize] async (int id, TodoDb db) => {
 }).WithTags("CRUD");
 
 ////////////////Filtering/////////////////
-app.MapGet("/search/{query}", [Authorize] (string query, TodoDb db) =>
+app.MapGet("/api/search/{query}", [Authorize] (string query, TodoDb db) =>
 {
     var _selectedTodos = db.Todos.Where(x => x.Name.ToLower().Contains(query.ToLower())
     || x.Description.ToLower().Contains(query.ToLower())
