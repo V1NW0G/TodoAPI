@@ -10,8 +10,8 @@
 <li>Password: admin
 </ul>
 <br>3. Copy the whole statement bearer + token
-
 <br>4. Paste to pass the Authentication
+<br>5. Then the you are Authenticated to do use the APIs 
 
 <br>
 <h2>Architecture Diagram</h2>
