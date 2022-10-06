@@ -43,7 +43,7 @@ var info = new OpenApiInfo()
 {
     Version = "v1",
     Title = "Todo App",
-    Description = "SleekFlow Coding Test",
+    Description = "SleekFlow Coding Test , By Wong Chun Kiu Vincent",
 };
 
 builder.Services.AddEndpointsApiExplorer();
